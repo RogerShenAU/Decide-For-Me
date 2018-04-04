@@ -20,7 +20,8 @@ For more Google Place API documentation, view online
 ## Screenshot 
 
 App screenshot for iPhone X
-![screeenshot](flutter_00.png)
+
+![screeenshot](flutter_00.png | width=100)
 
 
 
