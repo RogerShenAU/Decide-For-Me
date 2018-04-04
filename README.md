@@ -11,7 +11,7 @@ For help getting started with Flutter, view online
 
 ## How to use
 
-Setup flutter project, download the code. Change YOUR_API_KEY to your google API key. Then you are good to go.
+Setup flutter project, download the code. Change YOUR_API_KEY in [services.dart](/lib/services.dart) to your google API key. Then you are good to go.
 
 For more Google Place API documentation, view online
 [documentation](https://developers.google.com/places/)
