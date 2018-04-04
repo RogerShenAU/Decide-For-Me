@@ -2,7 +2,7 @@
 
 This is a flutter app integrated with Google Place API to retreive nearby places.
 
-It is always a headache for me to decide what to eat for lunch, so I developed this app to provide myself some random suggestions.
+Headache about what to eat, where to go and more? Get the app and check nearby places or get some random suggestions.
 
 ## Getting Started
 
