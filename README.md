@@ -1,4 +1,4 @@
-# Description
+## Description
 
 This is a flutter app integrated with Google Place API to retreive nearby places.
 
