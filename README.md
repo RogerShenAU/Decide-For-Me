@@ -1,4 +1,4 @@
-# <img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Flutter" width="40" height="40" /> Decide For Me ![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)(LICENSE) ![size](https://img.shields.io/badge/size-160KB-green.svg?longCache=true&style=plastic)(#)
+# <img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Flutter" width="40" height="40" /> Decide For Me ![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)(https://github.com/RogerShenAU/Decide-For-Me/edit/master/README.md) ![size](https://img.shields.io/badge/size-160KB-green.svg?longCache=true&style=plastic)(https://github.com/RogerShenAU/Decide-For-Me#)
 
 ## Description
 
