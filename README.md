@@ -1,9 +1,6 @@
 ## Description
 
 This is a flutter app integrated with Google Place API to retreive nearby places.
-
-# <img src="https://flutter.io/images/flutter-mark-square-100.png" alt="Flutter" width="40" height="40" /> [Flutter](https://flutter.io/)
-
 Headache about what to eat, where to go and more? Get the app and check nearby places or get some random suggestions.
 
 ## Getting Started
