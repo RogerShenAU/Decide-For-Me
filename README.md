@@ -8,10 +8,24 @@ This is a flutter app integrated with Google Place API to retreive nearby places
 
 ## How to use
 
-1. Setup flutter project
+1. Setup flutter project.
    For help getting started with Flutter, view 
 [![Read the Docs](https://img.shields.io/readthedocs/pip.svg?style=plastic)](https://flutter.io/get-started/install/)
-2. Download the code and replace the files in your flutter project
+2. Download the code and replace the files in your flutter project. The app uses [location plugin](https://pub.dartlang.org/packages/location), make sure to:
+
+	- add 
+	  ```
+      NSLocationWhenInUseUsageDescription
+	  NSLocationAlwaysUsageDescription
+      ```
+      in [Info.plist](https://github.com/RogerShenAU/Decide-For-Me/blob/master/ios/Runner/Info.plist)
+      
+    - and add
+      ```
+      <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+      ```
+      in [AndroidManifest.xml](https://github.com/RogerShenAU/Decide-For-Me/blob/master/android/app/src/main/AndroidManifest.xml)
+      
 3. Change ```YOUR_API_KEY``` in [services.dart](/lib/services.dart) to your google API key. Then you are good to go. 
 4. For more Google Place API documentation, view [![Read the Docs](https://img.shields.io/readthedocs/pip.svg?style=plastic)](https://developers.google.com/places/)
 
